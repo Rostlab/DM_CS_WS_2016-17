@@ -1,4 +1,4 @@
-# Data Mining, Computer Sience, Winter Semester, 2016-17
+# Data Mining, Computer Science, Winter Semester, 2016-17
 
 How you can use this repo:
 
